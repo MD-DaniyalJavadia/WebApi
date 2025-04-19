@@ -33,10 +33,6 @@ dotnet build
 Run the application:
 
 dotnet run
-You can test the API via Swagger by navigating to the Swagger UI (usually available at /swagger).
-
-API Documentation
-Swagger has been integrated into the project to provide an interactive API documentation interface. After running the project, you can navigate to /swagger to view and test the API endpoints.
 
 Endpoints
 GET /api/data: Retrieve data from the database.
@@ -46,8 +42,5 @@ POST /api/data: Send data to the database.
 Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request. Be sure to follow the coding guidelines and write tests where applicable.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 Contact
-For questions or suggestions, feel free to reach out to your-email@example.com.
+For questions or suggestions, feel free to reach out to daniyaljavadiaworks@gmail.com.
