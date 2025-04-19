@@ -20,6 +20,7 @@ Installation
 Clone the repository:
 
 git clone https://github.com/MD-DaniyalJavadia/WebApi.git
+
 Set up the SQL Server database:
 
 Create a database in SQL Server.
