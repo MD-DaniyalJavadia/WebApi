@@ -19,11 +19,7 @@ Swagger: Provides an interactive interface for testing the API.
 Installation
 Clone the repository:
 
-bash
-Copy
-Edit
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/MD-DaniyalJavadia/WebApi.git
 Set up the SQL Server database:
 
 Create a database in SQL Server.
@@ -32,15 +28,9 @@ Update the appsettings.json file with your SQL Server connection string.
 
 Build the project:
 
-bash
-Copy
-Edit
 dotnet build
 Run the application:
 
-bash
-Copy
-Edit
 dotnet run
 You can test the API via Swagger by navigating to the Swagger UI (usually available at /swagger).
 
